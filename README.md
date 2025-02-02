@@ -15,7 +15,7 @@ I am a web developer and coder, currently in the learning phase of digital marke
 *   ✉️  You can contact me at [aaryasrivastava2007@gmail.com](mailto:aaryasrivastava2007@gmail.com )
 *   🧠  I'm learning JavaScript
 *   🤝  I'm open to collaborating on Web development projects, Digital marketing strategies, E-commerce development, Startup and business growth strategies, App development.<a href="https://www.github.com/aarya-sr" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/aarya-sr?logo=github&style=for-the-badge&color=6366f1&labelColor=0f172a" /></a>### Skills 
+                  src="https://img.shields.io/github/followers/aarya-sr?logo=github&style=for-the-badge&color=6366f1&labelColor=0f172a" /></a>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
                     </p>
@@ -58,7 +58,7 @@ I am a web developer and coder, currently in the learning phase of digital marke
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
                     </picture>
-                    </a></p>### Badges<b>My GitHub Stats</b><a
+                    </a></p><b>My GitHub Stats</b><a
                       href="http://www.github.com/aarya-sr"><img src="https://github-readme-stats.vercel.app/api?username=aarya-sr&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=0891b2&icon_color=6366f1&bg_color=0f172a&hide_border=true&show_icons=true" alt="aarya-sr's GitHub stats" /></a><a
                       href="http://www.github.com/aarya-sr"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=aarya-sr&stroke=0891b2&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=0891b2&currStreakLabel=6366f1&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a><a
